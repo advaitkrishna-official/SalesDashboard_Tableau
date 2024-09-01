@@ -29,3 +29,6 @@ This Tableau dashboard is designed to assist sales managers and executives in an
 
 # Purpose
 The dashboard is built to deliver actionable insights, enabling sales teams and executives to monitor performance, identify growth opportunities, and respond proactively to trends. With interactive features and dynamic filtering, it offers a flexible tool for detailed analysis and strategic planning.
+
+![Screenshot 2024-09-02 012131](https://github.com/user-attachments/assets/7fc6e64a-9699-4895-ac9f-ee5852b7fc0a)
+
