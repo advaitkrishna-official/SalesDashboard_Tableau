@@ -32,3 +32,6 @@ The dashboard is built to deliver actionable insights, enabling sales teams and 
 
 ![Screenshot 2024-09-02 012131](https://github.com/user-attachments/assets/7fc6e64a-9699-4895-ac9f-ee5852b7fc0a)
 
+![Screenshot 2024-09-02 012201](https://github.com/user-attachments/assets/ced37362-9007-4258-a71c-080907f16edd)
+
+
